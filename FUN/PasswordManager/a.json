@@ -1,0 +1,23 @@
+{
+  "success": [
+    {
+      "wtoken": "1900",
+      "ltp": "501.9000",
+      "lv_net_chg": "0.0915",
+      "lv_net_chg_perc": "0.018600000000000002",
+      "open_price": "499.0000",
+      "closing_price": "501.9000",
+      "high_price": "503.5000",
+      "low_price": "498.3000",
+      "average_trade_price": "501.2900",
+      "last_trade_qty": "2",
+      "BD_last_traded_time": "17/03/2022 15:59:32",
+      "OI": "0",
+      "BD_TTQ": "22947673",
+      "market_exchange": "NSE",
+      "stk_name": "SBIN",
+      "display_segment": "EQ",
+      "display_fno_eq": ""
+    }
+  ]
+}

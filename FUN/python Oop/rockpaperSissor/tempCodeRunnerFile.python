@@ -1,0 +1,9 @@
+import random
+coordinates = [0]*4
+sum = 0
+
+for i in range(1000000):
+    coordinates = [random.choice(range(1,100000))/100000 for i in range(4)]
+    distance = ((coordinates[0] - coordinates[1])**2 + (coordinates[2] - coordinates[3])**2)**0.5
+    sum += distance
+print(sum/1000000)
