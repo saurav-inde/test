@@ -1,0 +1,1481 @@
+Folder PATH listing for volume My Drive
+Volume serial number is 9A34-1F51
+D:.
++---.vscode
++---DSA
+ª   +---.vscode
+ª   +---LINKED LIST
+ª   +---p9 10 11
+ª   ª   +---.vscode
+ª   +---QUEUE
+ª   ª   +---OOP
+ª   +---STACKS
+ª   +---zzques678
++---FUN
+ª   +---.ipynb_checkpoints
+ª   +---PasswordManager
+ª   ª   +---passmanager
+ª   ª   +---__pycache__
+ª   +---Prediction
+ª   ª   +---.idea
+ª   ª       +---inspectionProfiles
+ª   +---PYHTONASSISTANT
+ª   +---python Oop
+ª   ª   +---New folder
+ª   ª   ª   +---.vscode
+ª   ª   +---rockpaperSissor
+ª   ª       +---.vscode
+ª   +---Python_HW
+ª       +---.vscode
++---LEARNING_LANGUAGES
+ª   +---.vscode
+ª   +---C
+ª   ª   +---.vscode
+ª   ª   +---college
+ª   ª   ª   +---.vscode
+ª   ª   ª   +---assignment3
+ª   ª   ª   +---assin4
+ª   ª   ª   +---completed
+ª   ª   ª   +---homework1
+ª   ª   ª   +---homework2
+ª   ª   ª   +---junk
+ª   ª   ª   +---Lab1
+ª   ª   ª   ª   +---.vscode
+ª   ª   ª   ª   +---dma
+ª   ª   ª   ª   +---file
+ª   ª   ª   +---language
+ª   ª   ª   +---PointersSelf
+ª   ª   ª   +---Practical
+ª   ª   ª   ª   +---.vscode
+ª   ª   ª   +---SEM2
+ª   ª   ª   +---theory_files.c
+ª   ª   ª   ª   +---AdvancedCalculator
+ª   ª   ª   +---zpointers
+ª   ª   +---SEM2
+ª   ª       +---.vscode
+ª   +---C++
+ª   ª   +---.vs
+ª   ª   ª   +---C++
+ª   ª   ª       +---v16
+ª   ª   ª           +---ipch
+ª   ª   ª               +---AutoPCH
+ª   ª   ª                   +---5d08f339265dfeca
+ª   ª   ª                   +---fb87b9d36a6217ca
+ª   ª   +---cpp operator overload
+ª   ª   +---cpp pointers
+ª   ª   ª   +---.vscode
+ª   ª   +---LL
+ª   ª   +---New
+ª   ª   ª   +---GithubClone
+ª   ª   ª   ª   +---The-C-20-Masterclass-Source-Code
+ª   ª   ª   ª       +---10.FlowControl
+ª   ª   ª   ª       ª   +---10.10SwitchWithInitializer
+ª   ª   ª   ª       ª   +---10.11VariableScopeRevisited
+ª   ª   ª   ª       ª   +---10.12SwitchScope
+ª   ª   ª   ª       ª   +---10.2IfStatements
+ª   ª   ª   ª       ª   +---10.3ElseIf
+ª   ª   ª   ª       ª   +---10.4Switch
+ª   ª   ª   ª       ª   +---10.5ShortCircuitEvaluation
+ª   ª   ª   ª       ª   +---10.6IntegralLogicConditions
+ª   ª   ª   ª       ª   +---10.7TernaryOperators
+ª   ª   ª   ª       ª   +---10.8IfConstexpr
+ª   ª   ª   ª       ª   +---10.9IfWithInitializer
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---11.Loops
+ª   ª   ª   ª       ª   +---11.10InfiniteLoopPractice
+ª   ª   ª   ª       ª   +---11.11DecrementingLoops
+ª   ª   ª   ª       ª   +---11.12NestedLoops
+ª   ª   ª   ª       ª   +---11.13BreakAndContinue
+ª   ª   ª   ª       ª   +---11.14FixCalculator
+ª   ª   ª   ª       ª   +---11.15ForLoopWithInitCondition
+ª   ª   ª   ª       ª   +---11.2ForLoop
+ª   ª   ª   ª       ª   +---11.3ForLoopMultipleDeclarations
+ª   ª   ª   ª       ª   +---11.4CommaOperator
+ª   ª   ª   ª       ª   +---11.5RangeBasedForLoop
+ª   ª   ª   ª       ª   +---11.6WhileLoop
+ª   ª   ª   ª       ª   +---11.7HugeLoopsWithOutput
+ª   ª   ª   ª       ª   +---11.8DoWhileLoop
+ª   ª   ª   ª       ª   +---11.9InfiniteLoops
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---12.Arrays
+ª   ª   ª   ª       ª   +---12.10Practice_FortuneTellerV2
+ª   ª   ª   ª       ª   +---12.2DeclaringAndUsingArrays
+ª   ª   ª   ª       ª   +---12.3SizeOfAnArray
+ª   ª   ª   ª       ª   +---12.4ArraysOfCharacters
+ª   ª   ª   ª       ª   +---12.5ArrayBounds
+ª   ª   ª   ª       ª   +---12.6GeneratingRandomNumbers
+ª   ª   ª   ª       ª   +---12.7Practice_FortuneTellerV1
+ª   ª   ª   ª       ª   +---12.8MultiDimensionalArrays
+ª   ª   ª   ª       ª   +---12.9MultiDimensionalArraysOfCharacters
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---13.Pointers
+ª   ª   ª   ª       ª   +---13.10PointerArithmetic_Navigation
+ª   ª   ª   ª       ª   +---13.11PointerArithmetic_DistanceBetweenElements
+ª   ª   ª   ª       ª   +---13.12PointerArithmetic_ComparingPointers
+ª   ª   ª   ª       ª   +---13.13SwappingArrayData_PointerArithmetic
+ª   ª   ª   ª       ª   +---13.15DynamicMemoryAllocation
+ª   ª   ª   ª       ª   +---13.16DanglingPointers
+ª   ª   ª   ª       ª   +---13.17WhenNewFails
+ª   ª   ª   ª       ª   +---13.18NullPointerSafety
+ª   ª   ª   ª       ª   +---13.19MemoryLeaks
+ª   ª   ª   ª       ª   +---13.20DynamicallyAllocatedArrays
+ª   ª   ª   ª       ª   +---13.2DeclaringAndUsingPointers
+ª   ª   ª   ª       ª   +---13.3PointerToChar
+ª   ª   ª   ª       ª   +---13.4ArrayOfPointerToChar
+ª   ª   ª   ª       ª   +---13.5ConstPointerAndPointerToConst
+ª   ª   ª   ª       ª   +---13.6ArrayOfContPointerToConstChar
+ª   ª   ª   ª       ª   +---13.7PointersAndArrays
+ª   ª   ª   ª       ª   +---13.8SwappingArrayData_Demo
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---14.References
+ª   ª   ª   ª       ª   +---14.2.DeclaringAndUsingReferences
+ª   ª   ª   ª       ª   +---14.3.ComparingPointersAndReferences
+ª   ª   ª   ª       ª   +---14.4.ReferencesAndConst
+ª   ª   ª   ª       ª   +---14.5.ReferencesWithRangeBasedForLoops
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---15.CharacterManipulationAndStrings
+ª   ª   ª   ª       ª   +---15.10ModifyingStdStrings
+ª   ª   ª   ª       ª   +---15.11ComparingStdStrings
+ª   ª   ª   ª       ª   +---15.12StdStringCompare
+ª   ª   ª   ª       ª   +---15.13StdStringReplacingCopyingResizingSwapping
+ª   ª   ª   ª       ª   +---15.14SearchingStdString
+ª   ª   ª   ª       ª   +---15.15TransformingStdStringFromToNumbers
+ª   ª   ª   ª       ª   +---15.16EscapeSequences
+ª   ª   ª   ª       ª   +---15.17RawStringLiterals
+ª   ª   ª   ª       ª   +---15.18CopiedStrings
+ª   ª   ª   ª       ª   +---15.19StringView
+ª   ª   ª   ª       ª   +---15.2CharacterManipulation
+ª   ª   ª   ª       ª   +---15.3CStringManipulation
+ª   ª   ª   ª       ª   +---15.4CStringConcatenationAndCopy
+ª   ª   ª   ª       ª   +---15.6DeclaringAndUsingStdString
+ª   ª   ª   ª       ª   +---15.7ConcatenatingStdStrings
+ª   ª   ª   ª       ª   +---15.8AccessingCharactersInStdString
+ª   ª   ª   ª       ª   +---15.9StdStringSizeAndCapacity
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---16.Functions
+ª   ª   ª   ª       ª   +---17.10PassByReference
+ª   ª   ª   ª       ª   +---17.11PassByConstReference
+ª   ª   ª   ª       ª   +---17.13ArrayFunctionParameters
+ª   ª   ª   ª       ª   +---17.14SizedArrayFunctionParameters
+ª   ª   ª   ª       ª   +---17.15SizedArraysByReference
+ª   ª   ª   ª       ª   +---17.16MultiDimensionalArrayFunctionParameters
+ª   ª   ª   ª       ª   +---17.17DefaultFunctionParameters
+ª   ª   ª   ª       ª   +---17.18ImplicitConversions
+ª   ª   ª   ª       ª   +---17.19ImplicitConversionsWithReferences
+ª   ª   ª   ª       ª   +---17.20ImplicitConversionsWithPointers
+ª   ª   ª   ª       ª   +---17.21String_viewParameters
+ª   ª   ª   ª       ª   +---17.22ImplicitConversionsFromStringViewToString
+ª   ª   ª   ª       ª   +---17.23constexprFunctions
+ª   ª   ª   ª       ª   +---17.24constevalFunctions
+ª   ª   ª   ª       ª   +---17.2FirstHandOnCppFunctions
+ª   ª   ª   ª       ª   +---17.3FunctionDeclarationsAndDefinitions
+ª   ª   ª   ª       ª   +---17.4MultipleFiles_CompilationModelRevisited
+ª   ª   ª   ª       ª   +---17.5PassByValue
+ª   ª   ª   ª       ª   +---17.6PassByConstValue
+ª   ª   ª   ª       ª   +---17.7PassByPointer
+ª   ª   ª   ª       ª   +---17.8PassByPointerToConst
+ª   ª   ª   ª       ª   +---17.9PassByConstPointerToConst
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---17.EnumsAndTypeAliases
+ª   ª   ª   ª       ª   +---16.2EnumClasses
+ª   ª   ª   ª       ª   +---16.3UsingEnum
+ª   ª   ª   ª       ª   +---16.4OldEnums
+ª   ª   ª   ª       ª   +---16.5TypeAliases
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---18.ArgumentsToTheMainFunction
+ª   ª   ª   ª       ª   +---18.2GrabAndUseTheArguments
+ª   ª   ª   ª       ª   +---18.3CalculatorV1
+ª   ª   ª   ª       ª   +---18.4CalculatorV2
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---19.GettingThingsOutOfFuntions
+ª   ª   ª   ª       ª   +---19.10FunctionDefinitionsWithReturnTypeDeduction
+ª   ª   ª   ª       ª   +---19.11OptionalOutputFromFunctions
+ª   ª   ª   ª       ª   +---19.12IntroducingStdOptional
+ª   ª   ª   ª       ª   +---19.13OptionalOutputWithStdOptional
+ª   ª   ª   ª       ª   +---19.2InputAndOutputParameters
+ª   ª   ª   ª       ª   +---19.3ReturningFromFunctionsByValue
+ª   ª   ª   ª       ª   +---19.4ReturningByReference
+ª   ª   ª   ª       ª   +---19.5ReturningByPointer
+ª   ª   ª   ª       ª   +---19.6ReturningArrayElementIndexByPointer
+ª   ª   ª   ª       ª   +---19.7BareAutoTypeDeduction
+ª   ª   ª   ª       ª   +---19.8FunctionReturnTypeDeduction
+ª   ª   ª   ª       ª   +---19.9ReturnTypeDeductionWithReferences
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---2.EnvironmentSetup
+ª   ª   ª   ª       ª   +---Backup
+ª   ª   ª   ª       ª   ª   +---2.03CompileCppProgramWithGCC
+ª   ª   ª   ª       ª   ª   +---2.04InstallCodeLiteWindowsGCC
+ª   ª   ª   ª       ª   ª   ª   +---Template Project
+ª   ª   ª   ª       ª   ª   ª       +---.codelite
+ª   ª   ª   ª       ª   ª   ª       +---Cpp20StarterProject
+ª   ª   ª   ª       ª   ª   ª       +---Project2
+ª   ª   ª   ª       ª   ª   +---2.09InstallVisualStudioWindows
+ª   ª   ª   ª       ª   ª   +---2.11MsvcWindowsUI
+ª   ª   ª   ª       ª   ª       +---SomeProject
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---20.FunctionOverloading
+ª   ª   ª   ª       ª   +---20.2OverloadingWithDifferentParameters
+ª   ª   ª   ª       ª   +---20.3OverloadingWithPointerParameters
+ª   ª   ª   ª       ª   +---20.4OverloadingWithReferenceParameters
+ª   ª   ª   ª       ª   +---20.5OverloadingWithConstParametersByValue
+ª   ª   ª   ª       ª   +---20.6OverloadingWithConstPointerAndPointerToConstParameters
+ª   ª   ª   ª       ª   +---20.7OverloadingWithConstReferences
+ª   ª   ª   ª       ª   +---20.8OverloadsWithDefaultParameters
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---21.LambdaFunctions
+ª   ª   ª   ª       ª   +---21.2DeclaringAndUsingLambdas
+ª   ª   ª   ª       ª   +---21.3CaptureLists
+ª   ª   ª   ª       ª   +---21.4CaptureAllLists
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---22.FunctionsTheMisfits
+ª   ª   ª   ª       ª   +---22.2StaticVariables
+ª   ª   ª   ª       ª   +---22.3InlineFunctions
+ª   ª   ª   ª       ª   +---22.4RecursiveFunctions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---23.FunctionCallStackD_ebugging
+ª   ª   ª   ª       ª   +---23.7D_ebuggingArraysLoopsAndPointers
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---24.FunctionTemplates
+ª   ª   ª   ª       ª   +---24.10DecltypeAuto
+ª   ª   ª   ª       ª   +---24.11DefaultArguments
+ª   ª   ª   ª       ª   +---24.12NonTypeTemplateParameters
+ª   ª   ª   ª       ª   +---24.13AutoFunctionTemplates
+ª   ª   ª   ª       ª   +---24.14NamedTemplateParametersForLambdas
+ª   ª   ª   ª       ª   +---24.15TypeTraits
+ª   ª   ª   ª       ª   +---24.16ConstexprIf
+ª   ª   ª   ª       ª   +---24.2TryingOutFunctionTemplates
+ª   ª   ª   ª       ª   +---24.3TemplateTypeDeductionAndExplicitArguments
+ª   ª   ª   ª       ª   +---24.4TemplateTypeParametersByReference
+ª   ª   ª   ª       ª   +---24.5TemplateSpecialization
+ª   ª   ª   ª       ª   +---24.6FunctionTemplatesWithOverloading
+ª   ª   ª   ª       ª   +---24.7FunctionTemplatesWithMultipleParameters
+ª   ª   ª   ª       ª   +---24.8TemplateReturnTypeDeductionWithAuto
+ª   ª   ª   ª       ª   +---24.9DecltypeAndTrailingReturnTypes
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---25.Concepts
+ª   ª   ª   ª       ª   +---25.02UsingConcepts
+ª   ª   ª   ª       ª   +---25.03BuildingYourOwnConcepts
+ª   ª   ª   ª       ª   +---25.04ZoomingInOnRequiresClause
+ª   ª   ª   ª       ª   +---25.05CombiningConcepts
+ª   ª   ª   ª       ª   +---25.06ConceptsAndAuto
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---26.Classes
+ª   ª   ª   ª       ª   +---26.10OrderOfConstructorDestructorCalls
+ª   ª   ª   ª       ª   +---26.11ThisPointer
+ª   ª   ª   ª       ª   +---26.12Struct
+ª   ª   ª   ª       ª   +---26.13.SizeOfClassObjects
+ª   ª   ª   ª       ª   +---26.2YourFirstClass
+ª   ª   ª   ª       ª   +---26.3Constructors
+ª   ª   ª   ª       ª   +---26.4DefaultedConstructors
+ª   ª   ª   ª       ª   +---26.5SettersAndGetters
+ª   ª   ª   ª       ª   +---26.6ClassAcrossMultipleFiles
+ª   ª   ª   ª       ª   +---26.8ManagingClassObjectsThroughPointers
+ª   ª   ª   ª       ª   +---26.9Destructors
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---27.ZoomingInOnClassObjects
+ª   ª   ª   ª       ª   +---27.2ConstObjects
+ª   ª   ª   ª       ª   +---27.3ConstObjectsAsFunctionParameters
+ª   ª   ª   ª       ª   +---27.4ConstMemberFunctions
+ª   ª   ª   ª       ª   +---27.5GettersThatDoubleAsSetters
+ª   ª   ª   ª       ª   +---27.6DanglingPointersAndReferences
+ª   ª   ª   ª       ª   +---27.8MutableObjects
+ª   ª   ª   ª       ª   +---27.9StructuredBindings
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---28.DivingDeepIntoConstructorsAndInitialization
+ª   ª   ª   ª       ª   +---28.10MoveConstructors
+ª   ª   ª   ª       ª   +---28.11DeletedConstructors
+ª   ª   ª   ª       ª   +---28.12InitializerListConstructors
+ª   ª   ª   ª       ª   +---28.13AggregateInitialization
+ª   ª   ª   ª       ª   +---28.14DesignatedInitializers
+ª   ª   ª   ª       ª   +---28.15UniformInitializationForAggregates
+ª   ª   ª   ª       ª   +---28.2DefaultParametersForConstructors
+ª   ª   ª   ª       ª   +---28.3InitializerListsForConstructors
+ª   ª   ª   ª       ª   +---28.5ExplicitConstructors
+ª   ª   ª   ª       ª   +---28.6ConstructorDelegation
+ª   ª   ª   ª       ª   +---28.7CopyConstructors
+ª   ª   ª   ª       ª   +---28.8ObjectsStoredInArraysAreCopies
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---29.Friends
+ª   ª   ª   ª       ª   +---29.2FriendFunctions
+ª   ª   ª   ª       ª   +---29.3FriendClasses
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---3.FirstSteps
+ª   ª   ª   ª       ª   +---3.2FirstCppProgram
+ª   ª   ª   ª       ª   +---3.3Comments
+ª   ª   ª   ª       ª   +---3.4ErrorsWarnings
+ª   ª   ª   ª       ª   +---3.5StatementsAndFunctions
+ª   ª   ª   ª       ª   +---3.6DataInputAndOutput
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---30.ConstAndStaticMembers
+ª   ª   ª   ª       ª   +---30.10NestedClasses
+ª   ª   ª   ª       ª   +---30.11InClassMemberVariableInitialization
+ª   ª   ª   ª       ª   +---30.3StaticMemberVariables
+ª   ª   ª   ª       ª   +---30.4InlineStaticMemberVariables
+ª   ª   ª   ª       ª   +---30.5StaticConstants
+ª   ª   ª   ª       ª   +---30.6StaticConstantsPreCpp17
+ª   ª   ª   ª       ª   +---30.7MemberVariablesOfTypeSelf
+ª   ª   ª   ª       ª   +---30.8MemberVariablesOfOtherTypes
+ª   ª   ª   ª       ª   +---30.9StaticMemberFunctions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---31.Namespaces
+ª   ª   ª   ª       ª   +---31.2CreatingNamespaces
+ª   ª   ª   ª       ª   +---31.3NamespacesAcrossMultipleFiles
+ª   ª   ª   ª       ª   +---31.4DefaultGlobalNamespace
+ª   ª   ª   ª       ª   +---31.5BuiltInNamespaces
+ª   ª   ª   ª       ª   +---31.6UsingDeclarations
+ª   ª   ª   ª       ª   +---31.7AnonymousNamespaces
+ª   ª   ª   ª       ª   +---31.8NestedNamespaces
+ª   ª   ª   ª       ª   +---31.9NamespaceAliases
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---32.ProgramsWithMultipleFiles
+ª   ª   ª   ª       ª   +---32.11ForwardDeclarations
+ª   ª   ª   ª       ª   +---32.2CompilingAndLinking_Model
+ª   ª   ª   ª       ª   +---32.4DeclarationsAndDefinitions
+ª   ª   ª   ª       ª   +---32.5OneDefinitionRule
+ª   ª   ª   ª       ª   +---32.6Linkage
+ª   ª   ª   ª       ª   +---32.8FlippingLinkage
+ª   ª   ª   ª       ª   +---32.9InlineVariablesAndFunctions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---33.SmartPointers
+ª   ª   ª   ª       ª   +---33.2UniquePointers
+ª   ª   ª   ª       ª   +---33.3UniquePointersAsFunctionParametersAndReturnTypes
+ª   ª   ª   ª       ª   +---33.4UniquePointersAndArrays
+ª   ª   ª   ª       ª   +---33.5SharedPointers
+ª   ª   ª   ª       ª   +---33.6SharedPointersFromUniquePointers
+ª   ª   ª   ª       ª   +---33.7SharedPointersWithArrays
+ª   ª   ª   ª       ª   +---33.8SharedPointersAsFunctionParametersAndReturnTypes
+ª   ª   ª   ª       ª   +---33.9WeakPointers
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---34.OperatorOverloading
+ª   ª   ª   ª       ª   +---34.10CompoundOperators_ReusingOperators
+ª   ª   ª   ª       ª   +---34.11CustomTypeConversions
+ª   ª   ª   ª       ª   +---34.12ImplicitConversionsWithOverloadedBinaryOperators
+ª   ª   ª   ª       ª   +---34.13UnaryPrefixIncrementOperatorAsMember
+ª   ª   ª   ª       ª   +---34.14UnaryPrefixIncrementOperatorAsNonMember
+ª   ª   ª   ª       ª   +---34.15UnaryPostfixIncrementOperator
+ª   ª   ª   ª       ª   +---34.16UnaryPrefixPostfixDecrementOperator
+ª   ª   ª   ª       ª   +---34.17CopyAssignmentOperator
+ª   ª   ª   ª       ª   +---34.18CopyAssignmentOperatorForOtherTypes
+ª   ª   ª   ª       ª   +---34.19TypeConversionsRecap
+ª   ª   ª   ª       ª   +---34.20Functors
+ª   ª   ª   ª       ª   +---34.2AdditionOperatorAsMember
+ª   ª   ª   ª       ª   +---34.3AdditionOperatorAsNonMember
+ª   ª   ª   ª       ª   +---34.4SubscriptOperatorReading
+ª   ª   ª   ª       ª   +---34.5SubscriptOperatorReadingWritting
+ª   ª   ª   ª       ª   +---34.6SubscriptOperatorForCollectionTypes
+ª   ª   ª   ª       ª   +---34.7StreamInsertionOperator
+ª   ª   ª   ª       ª   +---34.8StreamExtractionOperator
+ª   ª   ª   ª       ª   +---34.9OtherArithmeticOperators
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---35.LogicalOperatorsAndThreeWayComparison
+ª   ª   ª   ª       ª   +---35.10CustomSpaceshipOperatorForOrdering
+ª   ª   ª   ª       ª   +---35.11LogicalOperatorsSimplified
+ª   ª   ª   ª       ª   +---35.12SpaceshipAsNonMember
+ª   ª   ª   ª       ª   +---35.13ZoomingInOnWeakOrderingExample1
+ª   ª   ª   ª       ª   +---35.14ZoomingInOnWeakOrderingExample2
+ª   ª   ª   ª       ª   +---35.15ZoomingInOnPartialOrderingExample
+ª   ª   ª   ª       ª   +---35.2AllLogicalOperators
+ª   ª   ª   ª       ª   +---35.3Rel_OpsNamespace
+ª   ª   ª   ª       ª   +---35.4LogicalOperatorsWithImplicitConversions
+ª   ª   ª   ª       ª   +---35.5ThreeWayComparisonOperator
+ª   ª   ª   ª       ª   +---35.6DefaultedEqualityOperator
+ª   ª   ª   ª       ª   +---35.7CustomEqualityOperator
+ª   ª   ª   ª       ª   +---35.8DefaultOrderingWithSpaceship
+ª   ª   ª   ª       ª   +---35.9MembersWithoutSpaceshipOperator
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---36.Inheritance
+ª   ª   ª   ª       ª   +---36.10CopyConstructorsWithInheritance
+ª   ª   ª   ª       ª   +---36.11InheritingBaseConstructors
+ª   ª   ª   ª       ª   +---36.12InheritanceAndDestructors
+ª   ª   ª   ª       ª   +---36.13ReusedSymbolsInInheritance
+ª   ª   ª   ª       ª   +---36.2FirstTryOnInheritance
+ª   ª   ª   ª       ª   +---36.3ProtectedMembers
+ª   ª   ª   ª       ª   +---36.5BaseClassAccessSpecifiersADemo
+ª   ª   ª   ª       ª   +---36.6ClosingInOnPrivateInheritance
+ª   ª   ª   ª       ª   +---36.7ResurectingMembersBackInContext
+ª   ª   ª   ª       ª   +---36.8DefaultArgConstructorsWithInheritance
+ª   ª   ª   ª       ª   +---36.9ConstructorsWithInheritance
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---37.Polymorphism
+ª   ª   ª   ª       ª   +---37.10Final
+ª   ª   ª   ª       ª   +---37.11FinalAndOverrideAreNotKeywords
+ª   ª   ª   ª       ª   +---37.12PolymorphicFunctionsAndAccessSpecifiers
+ª   ª   ª   ª       ª   +---37.13NonPolymorphicFunctionsAndAccessSpecifiers
+ª   ª   ª   ª       ª   +---37.14VirtualFunctionsWithDefaultArguments
+ª   ª   ª   ª       ª   +---37.15VirtualDestructors
+ª   ª   ª   ª       ª   +---37.16DynamicCasts
+ª   ª   ª   ª       ª   +---37.17PolymorphicFunctionsAndDestructors
+ª   ª   ª   ª       ª   +---37.18TypeIdOperator
+ª   ª   ª   ª       ª   +---37.19PureVirtualFunctionsAndAbstractClasses
+ª   ª   ª   ª       ª   +---37.20AbstractClassesAsInterfaces
+ª   ª   ª   ª       ª   +---37.2StaticBindingWithInheritance
+ª   ª   ª   ª       ª   +---37.3PolymorphismWithVirtualFunctions
+ª   ª   ª   ª       ª   +---37.4SizeOfPolymorphicObjectsAndSlicing
+ª   ª   ª   ª       ª   +---37.5PolymorphicObjectsStoredInCollections
+ª   ª   ª   ª       ª   +---37.6Override
+ª   ª   ª   ª       ª   +---37.7OverloadingOverridingAndHiding
+ª   ª   ª   ª       ª   +---37.8PolymorphismAtDifferentLevels
+ª   ª   ª   ª       ª   +---37.9InheritanceAndPolymorphismWithStaticMembers
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---38.Exceptions
+ª   ª   ª   ª       ª   +---38.10RethrownExceptions
+ª   ª   ª   ª       ª   +---38.11ProgramCustomTermimation
+ª   ª   ª   ª       ª   +---38.12EllipsisCatchAllBlock
+ª   ª   ª   ª       ª   +---38.13NoexceptSpecifier
+ª   ª   ª   ª       ª   +---38.14ExceptionsInDestructors
+ª   ª   ª   ª       ª   +---38.16CatchingStandardExceptions
+ª   ª   ª   ª       ª   +---38.17ThrowingStdExceptions
+ª   ª   ª   ª       ª   +---38.18DerivingFromStandardExceptions
+ª   ª   ª   ª       ª   +---38.2TryCatchBlocks
+ª   ª   ª   ª       ª   +---38.3TheNeedForExceptions
+ª   ª   ª   ª       ª   +---38.4HandlingExceptionsAtDifferentLevels
+ª   ª   ª   ª       ª   +---38.5MultipleHandlersForExceptions
+ª   ª   ª   ª       ª   +---38.6NestedTryBlocks
+ª   ª   ª   ª       ª   +---38.7ThrowingClassObjects
+ª   ª   ª   ª       ª   +---38.8ExceptionsAsClassObjectsWithInheritanceHierarchies
+ª   ª   ª   ª       ª   +---38.9PolymorphicExceptions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---39.Practice-BoxContainerType
+ª   ª   ª   ª       ª   +---39.2ConstructingDestroying
+ª   ª   ª   ª       ª   +---39.3AddingItems
+ª   ª   ª   ª       ª   +---39.4RemovingItems
+ª   ª   ª   ª       ª   +---39.5OtherOperators
+ª   ª   ª   ª       ª   +---39.7StoringInDifferentTypes
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---4.VariablesAndDatatypes
+ª   ª   ª   ª       ª   +---4.2NumberSystems
+ª   ª   ª   ª       ª   +---4.3IntegerTypes
+ª   ª   ª   ª       ª   +---4.4IntegerModifiers
+ª   ª   ª   ª       ª   +---4.5FractionalNumbers
+ª   ª   ª   ª       ª   +---4.6Booleans
+ª   ª   ª   ª       ª   +---4.7CharactersAndText
+ª   ª   ª   ª       ª   +---4.8Auto
+ª   ª   ª   ª       ª   +---4.9Assignments
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---40.ClassTemplates
+ª   ª   ª   ª       ª   +---40.10FriendFunctionsForClassTemplates
+ª   ª   ª   ª       ª   +---40.11StreamInsertionOperatorForClassTemplates
+ª   ª   ª   ª       ª   +---40.12ClassTemplatesWithTypeTraitsAndStaticAsserts
+ª   ª   ª   ª       ª   +---40.13ClassTemplatesWithConcepts
+ª   ª   ª   ª       ª   +---40.14BuiltInConcepts
+ª   ª   ª   ª       ª   +---40.15ConceptsExample1
+ª   ª   ª   ª       ª   +---40.16ConceptsExample2
+ª   ª   ª   ª       ª   +---40.2YourFirstClassTemplate
+ª   ª   ª   ª       ª   +---40.4NonTypeTemplateParameters
+ª   ª   ª   ª       ª   +---40.5DefaultValuesForTemplateParameters
+ª   ª   ª   ª       ª   +---40.7TemplateSpecializations
+ª   ª   ª   ª       ª   +---40.8TemplateSpecializationWithSelectMemberFunctions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---41.MoveSemantics
+ª   ª   ª   ª       ª   +---41.08MoveOnlyTypes
+ª   ª   ª   ª       ª   +---41.09PassingByRvalueReference
+ª   ª   ª   ª       ª   +---41.2LvaluesAndRvalues
+ª   ª   ª   ª       ª   +---41.3RvalueReferences
+ª   ª   ª   ª       ª   +---41.4MovingTemporariesAround
+ª   ª   ª   ª       ª   +---41.5MoveConstructorsMoveAssignmentOperators
+ª   ª   ª   ª       ª   +---41.6MovingLvaluesWithStdMove
+ª   ª   ª   ª       ª   +---41.7InvalidatePointersAfterStdMove
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---42.FunctionLikeEntities
+ª   ª   ª   ª       ª   +---42.10LambdaFunctionsAsCallbacks
+ª   ª   ª   ª       ª   +---42.11CapturingByValueUnderTheHood
+ª   ª   ª   ª       ª   +---42.12CapturingByReferenceUnderTheHood
+ª   ª   ª   ª       ª   +---42.13MixinCapturing
+ª   ª   ª   ª       ª   +---42.14CapturingTheThisPointer
+ª   ª   ª   ª       ª   +---42.15StdFunction
+ª   ª   ª   ª       ª   +---42.2FunctionPointers
+ª   ª   ª   ª       ª   +---42.3CallbackFunctions
+ª   ª   ª   ª       ª   +---42.4FunctionPointerTypeAliases
+ª   ª   ª   ª       ª   +---42.5FunctionPointerTypeAliasesWithTemplates
+ª   ª   ª   ª       ª   +---42.6Functors
+ª   ª   ª   ª       ª   +---42.7StandardFunctors
+ª   ª   ª   ª       ª   +---42.8FunctorsWithParameters
+ª   ª   ª   ª       ª   +---42.9FunctorsAndLambdaFunctions
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---43.StlContainersAndIterators
+ª   ª   ª   ª       ª   +---43.2StdVector
+ª   ª   ª   ª       ª   +---43.3StdArray
+ª   ª   ª   ª       ª   +---43.4Iterators
+ª   ª   ª   ª       ª   +---43.5TraversingContainerSubsetsWithIterators
+ª   ª   ª   ª       ª   +---43.6ReverseIterators
+ª   ª   ª   ª       ª   +---43.7ContantIterators
+ª   ª   ª   ª       ª   +---43.9StdBeginStdEnd
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---44.ZoomingOnSTLContainers
+ª   ª   ª   ª       ª   +---44.10Map
+ª   ª   ª   ª       ª   +---44.11MultisetMultimap
+ª   ª   ª   ª       ª   +---44.12UnorderedSetUnorderedMap
+ª   ª   ª   ª       ª   +---44.14Stack
+ª   ª   ª   ª       ª   +---44.15Queue
+ª   ª   ª   ª       ª   +---44.16PriorityQueue
+ª   ª   ª   ª       ª   +---44.2Deque
+ª   ª   ª   ª       ª   +---44.3ForwardList
+ª   ª   ª   ª       ª   +---44.4List
+ª   ª   ª   ª       ª   +---44.5Vector
+ª   ª   ª   ª       ª   +---44.6Array
+ª   ª   ª   ª       ª   +---44.8Pair
+ª   ª   ª   ª       ª   +---44.9Set
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---45.StlAlgorithms
+ª   ª   ª   ª       ª   +---45.2AllOf
+ª   ª   ª   ª       ª   +---45.3ForEach
+ª   ª   ª   ª       ª   +---45.4.MaxEltMinElt
+ª   ª   ª   ª       ª   +---45.5FindAndFindIf
+ª   ª   ª   ª       ª   +---45.6Copy
+ª   ª   ª   ª       ª   +---45.7Sort
+ª   ª   ª   ª       ª   +---45.8Transform
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---46.RangesLibraryInCpp20
+ª   ª   ª   ª       ª   +---46.2RangeAlgorithms
+ª   ª   ª   ª       ª   +---46.3Projections
+ª   ª   ª   ª       ª   +---46.4ViewsAndRangeAdaptors
+ª   ª   ª   ª       ª   +---46.5ViewCompositionAndPipeOperator
+ª   ª   ª   ª       ª   +---46.6RangeFactories
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---47.BuildingIteratorsForCustomContainers
+ª   ª   ª   ª       ª   +---40.02.IteratorPowers
+ª   ª   ª   ª       ª   +---40.04CustomInputIterator
+ª   ª   ª   ª       ª   +---40.05CustomOutputIterator
+ª   ª   ª   ª       ª   +---40.06CustomForwardIterator
+ª   ª   ª   ª       ª   +---40.07CustomBidirectionalIteator
+ª   ª   ª   ª       ª   +---40.08CustomRandomAccessIterator
+ª   ª   ª   ª       ª   +---40.09CustomIteratorsWithViews
+ª   ª   ª   ª       ª   +---40.10ConstantIterators
+ª   ª   ª   ª       ª   +---40.11RawPointersAsIterators
+ª   ª   ª   ª       ª   +---40.12WrappingIteratorsFromOtherContainers
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---48.Coroutines
+ª   ª   ª   ª       ª   +---47.5CoAwait
+ª   ª   ª   ª       ª   +---47.6CoYield
+ª   ª   ª   ª       ª   +---47.7CoReturn
+ª   ª   ª   ª       ª   +---47.8CustomGenerator
+ª   ª   ª   ª       ª   +---47.9ThirdPartyCorotineTypes
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---49.Modules
+ª   ª   ª   ª       ª   +---48.10ModuleInterfacePartitions
+ª   ª   ª   ª       ª   ª   +---ModulePartitions
+ª   ª   ª   ª       ª   +---48.1Introduction
+ª   ª   ª   ª       ª   ª   +---ModulesIntroduction
+ª   ª   ª   ª       ª   +---48.2YourFirstModule
+ª   ª   ª   ª       ª   ª   +---YourFirstModule
+ª   ª   ª   ª       ª   +---48.3BlockExport
+ª   ª   ª   ª       ª   ª   +---BlockExports
+ª   ª   ª   ª       ª   +---48.4SeparateInterfaceFromImplementation-SameFile
+ª   ª   ª   ª       ª   ª   +---InterfaceImplSeparated_SameFile
+ª   ª   ª   ª       ª   +---48.5SeparateInterfaceFromImplementation-DifferentFiles
+ª   ª   ª   ª       ª   ª   +---InterfaceImplSeparated_MultFiles
+ª   ª   ª   ª       ª   +---48.6MultipleImplementationFiles
+ª   ª   ª   ª       ª   ª   +---MultipleImplementationFiles
+ª   ª   ª   ª       ª   +---48.7MultipleInterfaceFiles
+ª   ª   ª   ª       ª   ª   +---MutlipleInterfaces
+ª   ª   ª   ª       ª   +---48.8ExportImport
+ª   ª   ª   ª       ª   ª   +---ExportImport
+ª   ª   ª   ª       ª   +---48.9SubModules
+ª   ª   ª   ª       ª       +---Submodules
+ª   ª   ª   ª       +---5.OperationsOnData
+ª   ª   ª   ª       ª   +---5.10.MathFunctions
+ª   ª   ª   ª       ª   +---5.11.WeirdIntegralTypes
+ª   ª   ª   ª       ª   +---5.2.BasicOperations
+ª   ª   ª   ª       ª   +---5.3.PrecedenceAndAssociativity
+ª   ª   ª   ª       ª   +---5.4.PrefixPostfixIncrementDecrement
+ª   ª   ª   ª       ª   +---5.5.CompoundAssignmentOperators
+ª   ª   ª   ª       ª   +---5.6.RelationalOperators
+ª   ª   ª   ª       ª   +---5.7.LogicalOperators
+ª   ª   ª   ª       ª   +---5.8.OutputFormatting
+ª   ª   ª   ª       ª   +---5.9.NumericLimits
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---6.LiteralsAndConstants
+ª   ª   ª   ª       ª   +---6.2Literals
+ª   ª   ª   ª       ª   +---6.3Constants
+ª   ª   ª   ª       ª   +---6.4ConstantExpressions
+ª   ª   ª   ª       ª   +---6.5constinit
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---7.ConversionsOverflowAndUnderflow
+ª   ª   ª   ª       ª   +---7.2ImplicitDataConversions
+ª   ª   ª   ª       ª   +---7.3ExplicitDataConversions
+ª   ª   ª   ª       ª   +---7.4OverflowAndUnderflow
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---8.BitwiseOperators
+ª   ª   ª   ª       ª   +---8.2PrintingIntegersInBinary
+ª   ª   ª   ª       ª   +---8.3ShiftOperators
+ª   ª   ª   ª       ª   +---8.4LogicalBitwiseOperators
+ª   ª   ª   ª       ª   +---8.5CompoundBitwiseOperators
+ª   ª   ª   ª       ª   +---8.6Masks
+ª   ª   ª   ª       ª   +---8.7MasksExample
+ª   ª   ª   ª       ª   +---8.8PackingColorInformation
+ª   ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª   ª       +---9.VariableLifetimeAndScope
+ª   ª   ª   ª           +---9.2VariableScope
+ª   ª   ª   ª           +---C++ 20 Template Project
+ª   ª   ª   +---PracticeCode
+ª   ª   ª       +---.vscode
+ª   ª   ª       +---10.FlowControl
+ª   ª   ª       ª   +---10.10SwitchWithInitializer
+ª   ª   ª       ª   +---10.11VariableScopeRevisited
+ª   ª   ª       ª   +---10.12SwitchScope
+ª   ª   ª       ª   +---10.2IfStatements
+ª   ª   ª       ª   +---10.3ElseIf
+ª   ª   ª       ª   +---10.4Switch
+ª   ª   ª       ª   +---10.5ShortCircuitEvaluation
+ª   ª   ª       ª   +---10.6IntegralLogicConditions
+ª   ª   ª       ª   +---10.7TernaryOperators
+ª   ª   ª       ª   +---10.8IfConstexpr
+ª   ª   ª       ª   +---10.9IfWithInitializer
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---11.Loops
+ª   ª   ª       ª   +---11.10InfiniteLoopPractice
+ª   ª   ª       ª   +---11.11DecrementingLoops
+ª   ª   ª       ª   +---11.12NestedLoops
+ª   ª   ª       ª   +---11.13BreakAndContinue
+ª   ª   ª       ª   +---11.14FixCalculator
+ª   ª   ª       ª   +---11.15ForLoopWithInitCondition
+ª   ª   ª       ª   +---11.2ForLoop
+ª   ª   ª       ª   +---11.3ForLoopMultipleDeclarations
+ª   ª   ª       ª   +---11.4CommaOperator
+ª   ª   ª       ª   +---11.5RangeBasedForLoop
+ª   ª   ª       ª   +---11.6WhileLoop
+ª   ª   ª       ª   +---11.7HugeLoopsWithOutput
+ª   ª   ª       ª   +---11.8DoWhileLoop
+ª   ª   ª       ª   +---11.9InfiniteLoops
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---12.Arrays
+ª   ª   ª       ª   +---12.10Practice_FortuneTellerV2
+ª   ª   ª       ª   +---12.2DeclaringAndUsingArrays
+ª   ª   ª       ª   +---12.3SizeOfAnArray
+ª   ª   ª       ª   +---12.4ArraysOfCharacters
+ª   ª   ª       ª   +---12.5ArrayBounds
+ª   ª   ª       ª   +---12.6GeneratingRandomNumbers
+ª   ª   ª       ª   +---12.7Practice_FortuneTellerV1
+ª   ª   ª       ª   +---12.8MultiDimensionalArrays
+ª   ª   ª       ª   +---12.9MultiDimensionalArraysOfCharacters
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---13.Pointers
+ª   ª   ª       ª   +---13.10PointerArithmetic_Navigation
+ª   ª   ª       ª   +---13.11PointerArithmetic_DistanceBetweenElements
+ª   ª   ª       ª   +---13.12PointerArithmetic_ComparingPointers
+ª   ª   ª       ª   +---13.13SwappingArrayData_PointerArithmetic
+ª   ª   ª       ª   +---13.15DynamicMemoryAllocation
+ª   ª   ª       ª   +---13.16DanglingPointers
+ª   ª   ª       ª   +---13.17WhenNewFails
+ª   ª   ª       ª   +---13.18NullPointerSafety
+ª   ª   ª       ª   +---13.19MemoryLeaks
+ª   ª   ª       ª   +---13.20DynamicallyAllocatedArrays
+ª   ª   ª       ª   +---13.2DeclaringAndUsingPointers
+ª   ª   ª       ª   +---13.3PointerToChar
+ª   ª   ª       ª   +---13.4ArrayOfPointerToChar
+ª   ª   ª       ª   +---13.5ConstPointerAndPointerToConst
+ª   ª   ª       ª   +---13.6ArrayOfContPointerToConstChar
+ª   ª   ª       ª   +---13.7PointersAndArrays
+ª   ª   ª       ª   +---13.8SwappingArrayData_Demo
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---14.References
+ª   ª   ª       ª   +---14.2.DeclaringAndUsingReferences
+ª   ª   ª       ª   +---14.3.ComparingPointersAndReferences
+ª   ª   ª       ª   +---14.4.ReferencesAndConst
+ª   ª   ª       ª   +---14.5.ReferencesWithRangeBasedForLoops
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---15.CharacterManipulationAndStrings
+ª   ª   ª       ª   +---15.10ModifyingStdStrings
+ª   ª   ª       ª   +---15.11ComparingStdStrings
+ª   ª   ª       ª   +---15.12StdStringCompare
+ª   ª   ª       ª   +---15.13StdStringReplacingCopyingResizingSwapping
+ª   ª   ª       ª   +---15.14SearchingStdString
+ª   ª   ª       ª   +---15.15TransformingStdStringFromToNumbers
+ª   ª   ª       ª   +---15.16EscapeSequences
+ª   ª   ª       ª   +---15.17RawStringLiterals
+ª   ª   ª       ª   +---15.18CopiedStrings
+ª   ª   ª       ª   +---15.19StringView
+ª   ª   ª       ª   +---15.2CharacterManipulation
+ª   ª   ª       ª   +---15.3CStringManipulation
+ª   ª   ª       ª   +---15.4CStringConcatenationAndCopy
+ª   ª   ª       ª   +---15.6DeclaringAndUsingStdString
+ª   ª   ª       ª   +---15.7ConcatenatingStdStrings
+ª   ª   ª       ª   +---15.8AccessingCharactersInStdString
+ª   ª   ª       ª   +---15.9StdStringSizeAndCapacity
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---16.Functions
+ª   ª   ª       ª   +---17.10PassByReference
+ª   ª   ª       ª   +---17.11PassByConstReference
+ª   ª   ª       ª   +---17.13ArrayFunctionParameters
+ª   ª   ª       ª   +---17.14SizedArrayFunctionParameters
+ª   ª   ª       ª   +---17.15SizedArraysByReference
+ª   ª   ª       ª   +---17.16MultiDimensionalArrayFunctionParameters
+ª   ª   ª       ª   +---17.17DefaultFunctionParameters
+ª   ª   ª       ª   +---17.18ImplicitConversions
+ª   ª   ª       ª   +---17.19ImplicitConversionsWithReferences
+ª   ª   ª       ª   +---17.20ImplicitConversionsWithPointers
+ª   ª   ª       ª   +---17.21String_viewParameters
+ª   ª   ª       ª   +---17.22ImplicitConversionsFromStringViewToString
+ª   ª   ª       ª   +---17.23constexprFunctions
+ª   ª   ª       ª   +---17.24constevalFunctions
+ª   ª   ª       ª   +---17.2FirstHandOnCppFunctions
+ª   ª   ª       ª   +---17.3FunctionDeclarationsAndDefinitions
+ª   ª   ª       ª   +---17.4MultipleFiles_CompilationModelRevisited
+ª   ª   ª       ª   +---17.5PassByValue
+ª   ª   ª       ª   +---17.6PassByConstValue
+ª   ª   ª       ª   +---17.7PassByPointer
+ª   ª   ª       ª   +---17.8PassByPointerToConst
+ª   ª   ª       ª   +---17.9PassByConstPointerToConst
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---17.EnumsAndTypeAliases
+ª   ª   ª       ª   +---16.2EnumClasses
+ª   ª   ª       ª   +---16.3UsingEnum
+ª   ª   ª       ª   +---16.4OldEnums
+ª   ª   ª       ª   +---16.5TypeAliases
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---18.ArgumentsToTheMainFunction
+ª   ª   ª       ª   +---18.2GrabAndUseTheArguments
+ª   ª   ª       ª   +---18.3CalculatorV1
+ª   ª   ª       ª   +---18.4CalculatorV2
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---19.GettingThingsOutOfFuntions
+ª   ª   ª       ª   +---19.10FunctionDefinitionsWithReturnTypeDeduction
+ª   ª   ª       ª   +---19.11OptionalOutputFromFunctions
+ª   ª   ª       ª   +---19.12IntroducingStdOptional
+ª   ª   ª       ª   +---19.13OptionalOutputWithStdOptional
+ª   ª   ª       ª   +---19.2InputAndOutputParameters
+ª   ª   ª       ª   +---19.3ReturningFromFunctionsByValue
+ª   ª   ª       ª   +---19.4ReturningByReference
+ª   ª   ª       ª   +---19.5ReturningByPointer
+ª   ª   ª       ª   +---19.6ReturningArrayElementIndexByPointer
+ª   ª   ª       ª   +---19.7BareAutoTypeDeduction
+ª   ª   ª       ª   +---19.8FunctionReturnTypeDeduction
+ª   ª   ª       ª   +---19.9ReturnTypeDeductionWithReferences
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---2.EnvironmentSetup
+ª   ª   ª       ª   +---Backup
+ª   ª   ª       ª   ª   +---2.03CompileCppProgramWithGCC
+ª   ª   ª       ª   ª   +---2.04InstallCodeLiteWindowsGCC
+ª   ª   ª       ª   ª   ª   +---Template Project
+ª   ª   ª       ª   ª   ª       +---.codelite
+ª   ª   ª       ª   ª   ª       +---Cpp20StarterProject
+ª   ª   ª       ª   ª   ª       +---Project2
+ª   ª   ª       ª   ª   +---2.09InstallVisualStudioWindows
+ª   ª   ª       ª   ª   +---2.11MsvcWindowsUI
+ª   ª   ª       ª   ª       +---SomeProject
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---20.FunctionOverloading
+ª   ª   ª       ª   +---20.2OverloadingWithDifferentParameters
+ª   ª   ª       ª   +---20.3OverloadingWithPointerParameters
+ª   ª   ª       ª   +---20.4OverloadingWithReferenceParameters
+ª   ª   ª       ª   +---20.5OverloadingWithConstParametersByValue
+ª   ª   ª       ª   +---20.6OverloadingWithConstPointerAndPointerToConstParameters
+ª   ª   ª       ª   +---20.7OverloadingWithConstReferences
+ª   ª   ª       ª   +---20.8OverloadsWithDefaultParameters
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---21.LambdaFunctions
+ª   ª   ª       ª   +---21.2DeclaringAndUsingLambdas
+ª   ª   ª       ª   +---21.3CaptureLists
+ª   ª   ª       ª   +---21.4CaptureAllLists
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---22.FunctionsTheMisfits
+ª   ª   ª       ª   +---22.2StaticVariables
+ª   ª   ª       ª   +---22.3InlineFunctions
+ª   ª   ª       ª   +---22.4RecursiveFunctions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---23.FunctionCallStackD_ebugging
+ª   ª   ª       ª   +---23.7D_ebuggingArraysLoopsAndPointers
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---24.FunctionTemplates
+ª   ª   ª       ª   +---24.10DecltypeAuto
+ª   ª   ª       ª   +---24.11DefaultArguments
+ª   ª   ª       ª   +---24.12NonTypeTemplateParameters
+ª   ª   ª       ª   +---24.13AutoFunctionTemplates
+ª   ª   ª       ª   +---24.14NamedTemplateParametersForLambdas
+ª   ª   ª       ª   +---24.15TypeTraits
+ª   ª   ª       ª   +---24.16ConstexprIf
+ª   ª   ª       ª   +---24.2TryingOutFunctionTemplates
+ª   ª   ª       ª   +---24.3TemplateTypeDeductionAndExplicitArguments
+ª   ª   ª       ª   +---24.4TemplateTypeParametersByReference
+ª   ª   ª       ª   +---24.5TemplateSpecialization
+ª   ª   ª       ª   +---24.6FunctionTemplatesWithOverloading
+ª   ª   ª       ª   +---24.7FunctionTemplatesWithMultipleParameters
+ª   ª   ª       ª   +---24.8TemplateReturnTypeDeductionWithAuto
+ª   ª   ª       ª   +---24.9DecltypeAndTrailingReturnTypes
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---25.Concepts
+ª   ª   ª       ª   +---25.02UsingConcepts
+ª   ª   ª       ª   +---25.03BuildingYourOwnConcepts
+ª   ª   ª       ª   +---25.04ZoomingInOnRequiresClause
+ª   ª   ª       ª   +---25.05CombiningConcepts
+ª   ª   ª       ª   +---25.06ConceptsAndAuto
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---26.Classes
+ª   ª   ª       ª   +---26.10OrderOfConstructorDestructorCalls
+ª   ª   ª       ª   +---26.11ThisPointer
+ª   ª   ª       ª   +---26.12Struct
+ª   ª   ª       ª   +---26.13.SizeOfClassObjects
+ª   ª   ª       ª   +---26.2YourFirstClass
+ª   ª   ª       ª   +---26.3Constructors
+ª   ª   ª       ª   +---26.4DefaultedConstructors
+ª   ª   ª       ª   +---26.5SettersAndGetters
+ª   ª   ª       ª   +---26.6ClassAcrossMultipleFiles
+ª   ª   ª       ª   +---26.8ManagingClassObjectsThroughPointers
+ª   ª   ª       ª   +---26.9Destructors
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---27.ZoomingInOnClassObjects
+ª   ª   ª       ª   +---27.2ConstObjects
+ª   ª   ª       ª   +---27.3ConstObjectsAsFunctionParameters
+ª   ª   ª       ª   +---27.4ConstMemberFunctions
+ª   ª   ª       ª   +---27.5GettersThatDoubleAsSetters
+ª   ª   ª       ª   +---27.6DanglingPointersAndReferences
+ª   ª   ª       ª   +---27.8MutableObjects
+ª   ª   ª       ª   +---27.9StructuredBindings
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---28.DivingDeepIntoConstructorsAndInitialization
+ª   ª   ª       ª   +---28.10MoveConstructors
+ª   ª   ª       ª   +---28.11DeletedConstructors
+ª   ª   ª       ª   +---28.12InitializerListConstructors
+ª   ª   ª       ª   +---28.13AggregateInitialization
+ª   ª   ª       ª   +---28.14DesignatedInitializers
+ª   ª   ª       ª   +---28.15UniformInitializationForAggregates
+ª   ª   ª       ª   +---28.2DefaultParametersForConstructors
+ª   ª   ª       ª   +---28.3InitializerListsForConstructors
+ª   ª   ª       ª   +---28.5ExplicitConstructors
+ª   ª   ª       ª   +---28.6ConstructorDelegation
+ª   ª   ª       ª   +---28.7CopyConstructors
+ª   ª   ª       ª   +---28.8ObjectsStoredInArraysAreCopies
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---29.Friends
+ª   ª   ª       ª   +---29.2FriendFunctions
+ª   ª   ª       ª   +---29.3FriendClasses
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---3.FirstSteps
+ª   ª   ª       ª   +---3.2FirstCppProgram
+ª   ª   ª       ª   +---3.3Comments
+ª   ª   ª       ª   +---3.4ErrorsWarnings
+ª   ª   ª       ª   +---3.5StatementsAndFunctions
+ª   ª   ª       ª   +---3.6DataInputAndOutput
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---30.ConstAndStaticMembers
+ª   ª   ª       ª   +---30.10NestedClasses
+ª   ª   ª       ª   +---30.11InClassMemberVariableInitialization
+ª   ª   ª       ª   +---30.3StaticMemberVariables
+ª   ª   ª       ª   +---30.4InlineStaticMemberVariables
+ª   ª   ª       ª   +---30.5StaticConstants
+ª   ª   ª       ª   +---30.6StaticConstantsPreCpp17
+ª   ª   ª       ª   +---30.7MemberVariablesOfTypeSelf
+ª   ª   ª       ª   +---30.8MemberVariablesOfOtherTypes
+ª   ª   ª       ª   +---30.9StaticMemberFunctions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---31.Namespaces
+ª   ª   ª       ª   +---31.2CreatingNamespaces
+ª   ª   ª       ª   +---31.3NamespacesAcrossMultipleFiles
+ª   ª   ª       ª   +---31.4DefaultGlobalNamespace
+ª   ª   ª       ª   +---31.5BuiltInNamespaces
+ª   ª   ª       ª   +---31.6UsingDeclarations
+ª   ª   ª       ª   +---31.7AnonymousNamespaces
+ª   ª   ª       ª   +---31.8NestedNamespaces
+ª   ª   ª       ª   +---31.9NamespaceAliases
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---32.ProgramsWithMultipleFiles
+ª   ª   ª       ª   +---32.11ForwardDeclarations
+ª   ª   ª       ª   +---32.2CompilingAndLinking_Model
+ª   ª   ª       ª   +---32.4DeclarationsAndDefinitions
+ª   ª   ª       ª   +---32.5OneDefinitionRule
+ª   ª   ª       ª   +---32.6Linkage
+ª   ª   ª       ª   +---32.8FlippingLinkage
+ª   ª   ª       ª   +---32.9InlineVariablesAndFunctions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---33.SmartPointers
+ª   ª   ª       ª   +---33.2UniquePointers
+ª   ª   ª       ª   +---33.3UniquePointersAsFunctionParametersAndReturnTypes
+ª   ª   ª       ª   +---33.4UniquePointersAndArrays
+ª   ª   ª       ª   +---33.5SharedPointers
+ª   ª   ª       ª   +---33.6SharedPointersFromUniquePointers
+ª   ª   ª       ª   +---33.7SharedPointersWithArrays
+ª   ª   ª       ª   +---33.8SharedPointersAsFunctionParametersAndReturnTypes
+ª   ª   ª       ª   +---33.9WeakPointers
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---34.OperatorOverloading
+ª   ª   ª       ª   +---34.10CompoundOperators_ReusingOperators
+ª   ª   ª       ª   +---34.11CustomTypeConversions
+ª   ª   ª       ª   +---34.12ImplicitConversionsWithOverloadedBinaryOperators
+ª   ª   ª       ª   +---34.13UnaryPrefixIncrementOperatorAsMember
+ª   ª   ª       ª   +---34.14UnaryPrefixIncrementOperatorAsNonMember
+ª   ª   ª       ª   +---34.15UnaryPostfixIncrementOperator
+ª   ª   ª       ª   +---34.16UnaryPrefixPostfixDecrementOperator
+ª   ª   ª       ª   +---34.17CopyAssignmentOperator
+ª   ª   ª       ª   +---34.18CopyAssignmentOperatorForOtherTypes
+ª   ª   ª       ª   +---34.19TypeConversionsRecap
+ª   ª   ª       ª   +---34.20Functors
+ª   ª   ª       ª   +---34.2AdditionOperatorAsMember
+ª   ª   ª       ª   +---34.3AdditionOperatorAsNonMember
+ª   ª   ª       ª   +---34.4SubscriptOperatorReading
+ª   ª   ª       ª   +---34.5SubscriptOperatorReadingWritting
+ª   ª   ª       ª   +---34.6SubscriptOperatorForCollectionTypes
+ª   ª   ª       ª   +---34.7StreamInsertionOperator
+ª   ª   ª       ª   +---34.8StreamExtractionOperator
+ª   ª   ª       ª   +---34.9OtherArithmeticOperators
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---35.LogicalOperatorsAndThreeWayComparison
+ª   ª   ª       ª   +---35.10CustomSpaceshipOperatorForOrdering
+ª   ª   ª       ª   +---35.11LogicalOperatorsSimplified
+ª   ª   ª       ª   +---35.12SpaceshipAsNonMember
+ª   ª   ª       ª   +---35.13ZoomingInOnWeakOrderingExample1
+ª   ª   ª       ª   +---35.14ZoomingInOnWeakOrderingExample2
+ª   ª   ª       ª   +---35.15ZoomingInOnPartialOrderingExample
+ª   ª   ª       ª   +---35.2AllLogicalOperators
+ª   ª   ª       ª   +---35.3Rel_OpsNamespace
+ª   ª   ª       ª   +---35.4LogicalOperatorsWithImplicitConversions
+ª   ª   ª       ª   +---35.5ThreeWayComparisonOperator
+ª   ª   ª       ª   +---35.6DefaultedEqualityOperator
+ª   ª   ª       ª   +---35.7CustomEqualityOperator
+ª   ª   ª       ª   +---35.8DefaultOrderingWithSpaceship
+ª   ª   ª       ª   +---35.9MembersWithoutSpaceshipOperator
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---36.Inheritance
+ª   ª   ª       ª   +---36.10CopyConstructorsWithInheritance
+ª   ª   ª       ª   +---36.11InheritingBaseConstructors
+ª   ª   ª       ª   +---36.12InheritanceAndDestructors
+ª   ª   ª       ª   +---36.13ReusedSymbolsInInheritance
+ª   ª   ª       ª   +---36.2FirstTryOnInheritance
+ª   ª   ª       ª   +---36.3ProtectedMembers
+ª   ª   ª       ª   +---36.5BaseClassAccessSpecifiersADemo
+ª   ª   ª       ª   +---36.6ClosingInOnPrivateInheritance
+ª   ª   ª       ª   +---36.7ResurectingMembersBackInContext
+ª   ª   ª       ª   +---36.8DefaultArgConstructorsWithInheritance
+ª   ª   ª       ª   +---36.9ConstructorsWithInheritance
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---37.Polymorphism
+ª   ª   ª       ª   +---37.10Final
+ª   ª   ª       ª   +---37.11FinalAndOverrideAreNotKeywords
+ª   ª   ª       ª   +---37.12PolymorphicFunctionsAndAccessSpecifiers
+ª   ª   ª       ª   +---37.13NonPolymorphicFunctionsAndAccessSpecifiers
+ª   ª   ª       ª   +---37.14VirtualFunctionsWithDefaultArguments
+ª   ª   ª       ª   +---37.15VirtualDestructors
+ª   ª   ª       ª   +---37.16DynamicCasts
+ª   ª   ª       ª   +---37.17PolymorphicFunctionsAndDestructors
+ª   ª   ª       ª   +---37.18TypeIdOperator
+ª   ª   ª       ª   +---37.19PureVirtualFunctionsAndAbstractClasses
+ª   ª   ª       ª   +---37.20AbstractClassesAsInterfaces
+ª   ª   ª       ª   +---37.2StaticBindingWithInheritance
+ª   ª   ª       ª   +---37.3PolymorphismWithVirtualFunctions
+ª   ª   ª       ª   +---37.4SizeOfPolymorphicObjectsAndSlicing
+ª   ª   ª       ª   +---37.5PolymorphicObjectsStoredInCollections
+ª   ª   ª       ª   +---37.6Override
+ª   ª   ª       ª   +---37.7OverloadingOverridingAndHiding
+ª   ª   ª       ª   +---37.8PolymorphismAtDifferentLevels
+ª   ª   ª       ª   +---37.9InheritanceAndPolymorphismWithStaticMembers
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---38.Exceptions
+ª   ª   ª       ª   +---38.10RethrownExceptions
+ª   ª   ª       ª   +---38.11ProgramCustomTermimation
+ª   ª   ª       ª   +---38.12EllipsisCatchAllBlock
+ª   ª   ª       ª   +---38.13NoexceptSpecifier
+ª   ª   ª       ª   +---38.14ExceptionsInDestructors
+ª   ª   ª       ª   +---38.16CatchingStandardExceptions
+ª   ª   ª       ª   +---38.17ThrowingStdExceptions
+ª   ª   ª       ª   +---38.18DerivingFromStandardExceptions
+ª   ª   ª       ª   +---38.2TryCatchBlocks
+ª   ª   ª       ª   +---38.3TheNeedForExceptions
+ª   ª   ª       ª   +---38.4HandlingExceptionsAtDifferentLevels
+ª   ª   ª       ª   +---38.5MultipleHandlersForExceptions
+ª   ª   ª       ª   +---38.6NestedTryBlocks
+ª   ª   ª       ª   +---38.7ThrowingClassObjects
+ª   ª   ª       ª   +---38.8ExceptionsAsClassObjectsWithInheritanceHierarchies
+ª   ª   ª       ª   +---38.9PolymorphicExceptions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---39.Practice-BoxContainerType
+ª   ª   ª       ª   +---39.2ConstructingDestroying
+ª   ª   ª       ª   +---39.3AddingItems
+ª   ª   ª       ª   +---39.4RemovingItems
+ª   ª   ª       ª   +---39.5OtherOperators
+ª   ª   ª       ª   +---39.7StoringInDifferentTypes
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---4.VariablesAndDatatypes
+ª   ª   ª       ª   +---4.2NumberSystems
+ª   ª   ª       ª   +---4.3IntegerTypes
+ª   ª   ª       ª   +---4.4IntegerModifiers
+ª   ª   ª       ª   +---4.5FractionalNumbers
+ª   ª   ª       ª   +---4.6Booleans
+ª   ª   ª       ª   +---4.7CharactersAndText
+ª   ª   ª       ª   +---4.8Auto
+ª   ª   ª       ª   +---4.9Assignments
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---40.ClassTemplates
+ª   ª   ª       ª   +---40.10FriendFunctionsForClassTemplates
+ª   ª   ª       ª   +---40.11StreamInsertionOperatorForClassTemplates
+ª   ª   ª       ª   +---40.12ClassTemplatesWithTypeTraitsAndStaticAsserts
+ª   ª   ª       ª   +---40.13ClassTemplatesWithConcepts
+ª   ª   ª       ª   +---40.14BuiltInConcepts
+ª   ª   ª       ª   +---40.15ConceptsExample1
+ª   ª   ª       ª   +---40.16ConceptsExample2
+ª   ª   ª       ª   +---40.2YourFirstClassTemplate
+ª   ª   ª       ª   +---40.4NonTypeTemplateParameters
+ª   ª   ª       ª   +---40.5DefaultValuesForTemplateParameters
+ª   ª   ª       ª   +---40.7TemplateSpecializations
+ª   ª   ª       ª   +---40.8TemplateSpecializationWithSelectMemberFunctions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---41.MoveSemantics
+ª   ª   ª       ª   +---41.08MoveOnlyTypes
+ª   ª   ª       ª   +---41.09PassingByRvalueReference
+ª   ª   ª       ª   +---41.2LvaluesAndRvalues
+ª   ª   ª       ª   +---41.3RvalueReferences
+ª   ª   ª       ª   +---41.4MovingTemporariesAround
+ª   ª   ª       ª   +---41.5MoveConstructorsMoveAssignmentOperators
+ª   ª   ª       ª   +---41.6MovingLvaluesWithStdMove
+ª   ª   ª       ª   +---41.7InvalidatePointersAfterStdMove
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---42.FunctionLikeEntities
+ª   ª   ª       ª   +---42.10LambdaFunctionsAsCallbacks
+ª   ª   ª       ª   +---42.11CapturingByValueUnderTheHood
+ª   ª   ª       ª   +---42.12CapturingByReferenceUnderTheHood
+ª   ª   ª       ª   +---42.13MixinCapturing
+ª   ª   ª       ª   +---42.14CapturingTheThisPointer
+ª   ª   ª       ª   +---42.15StdFunction
+ª   ª   ª       ª   +---42.2FunctionPointers
+ª   ª   ª       ª   +---42.3CallbackFunctions
+ª   ª   ª       ª   +---42.4FunctionPointerTypeAliases
+ª   ª   ª       ª   +---42.5FunctionPointerTypeAliasesWithTemplates
+ª   ª   ª       ª   +---42.6Functors
+ª   ª   ª       ª   +---42.7StandardFunctors
+ª   ª   ª       ª   +---42.8FunctorsWithParameters
+ª   ª   ª       ª   +---42.9FunctorsAndLambdaFunctions
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---43.StlContainersAndIterators
+ª   ª   ª       ª   +---43.2StdVector
+ª   ª   ª       ª   +---43.3StdArray
+ª   ª   ª       ª   +---43.4Iterators
+ª   ª   ª       ª   +---43.5TraversingContainerSubsetsWithIterators
+ª   ª   ª       ª   +---43.6ReverseIterators
+ª   ª   ª       ª   +---43.7ContantIterators
+ª   ª   ª       ª   +---43.9StdBeginStdEnd
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---44.ZoomingOnSTLContainers
+ª   ª   ª       ª   +---44.10Map
+ª   ª   ª       ª   +---44.11MultisetMultimap
+ª   ª   ª       ª   +---44.12UnorderedSetUnorderedMap
+ª   ª   ª       ª   +---44.14Stack
+ª   ª   ª       ª   +---44.15Queue
+ª   ª   ª       ª   +---44.16PriorityQueue
+ª   ª   ª       ª   +---44.2Deque
+ª   ª   ª       ª   +---44.3ForwardList
+ª   ª   ª       ª   +---44.4List
+ª   ª   ª       ª   +---44.5Vector
+ª   ª   ª       ª   +---44.6Array
+ª   ª   ª       ª   +---44.8Pair
+ª   ª   ª       ª   +---44.9Set
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---45.StlAlgorithms
+ª   ª   ª       ª   +---45.2AllOf
+ª   ª   ª       ª   +---45.3ForEach
+ª   ª   ª       ª   +---45.4.MaxEltMinElt
+ª   ª   ª       ª   +---45.5FindAndFindIf
+ª   ª   ª       ª   +---45.6Copy
+ª   ª   ª       ª   +---45.7Sort
+ª   ª   ª       ª   +---45.8Transform
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---46.RangesLibraryInCpp20
+ª   ª   ª       ª   +---46.2RangeAlgorithms
+ª   ª   ª       ª   +---46.3Projections
+ª   ª   ª       ª   +---46.4ViewsAndRangeAdaptors
+ª   ª   ª       ª   +---46.5ViewCompositionAndPipeOperator
+ª   ª   ª       ª   +---46.6RangeFactories
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---47.BuildingIteratorsForCustomContainers
+ª   ª   ª       ª   +---40.02.IteratorPowers
+ª   ª   ª       ª   +---40.04CustomInputIterator
+ª   ª   ª       ª   +---40.05CustomOutputIterator
+ª   ª   ª       ª   +---40.06CustomForwardIterator
+ª   ª   ª       ª   +---40.07CustomBidirectionalIteator
+ª   ª   ª       ª   +---40.08CustomRandomAccessIterator
+ª   ª   ª       ª   +---40.09CustomIteratorsWithViews
+ª   ª   ª       ª   +---40.10ConstantIterators
+ª   ª   ª       ª   +---40.11RawPointersAsIterators
+ª   ª   ª       ª   +---40.12WrappingIteratorsFromOtherContainers
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---48.Coroutines
+ª   ª   ª       ª   +---47.5CoAwait
+ª   ª   ª       ª   +---47.6CoYield
+ª   ª   ª       ª   +---47.7CoReturn
+ª   ª   ª       ª   +---47.8CustomGenerator
+ª   ª   ª       ª   +---47.9ThirdPartyCorotineTypes
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---49.Modules
+ª   ª   ª       ª   +---48.10ModuleInterfacePartitions
+ª   ª   ª       ª   ª   +---ModulePartitions
+ª   ª   ª       ª   +---48.1Introduction
+ª   ª   ª       ª   ª   +---ModulesIntroduction
+ª   ª   ª       ª   +---48.2YourFirstModule
+ª   ª   ª       ª   ª   +---YourFirstModule
+ª   ª   ª       ª   +---48.3BlockExport
+ª   ª   ª       ª   ª   +---BlockExports
+ª   ª   ª       ª   +---48.4SeparateInterfaceFromImplementation-SameFile
+ª   ª   ª       ª   ª   +---InterfaceImplSeparated_SameFile
+ª   ª   ª       ª   +---48.5SeparateInterfaceFromImplementation-DifferentFiles
+ª   ª   ª       ª   ª   +---InterfaceImplSeparated_MultFiles
+ª   ª   ª       ª   +---48.6MultipleImplementationFiles
+ª   ª   ª       ª   ª   +---MultipleImplementationFiles
+ª   ª   ª       ª   +---48.7MultipleInterfaceFiles
+ª   ª   ª       ª   ª   +---MutlipleInterfaces
+ª   ª   ª       ª   +---48.8ExportImport
+ª   ª   ª       ª   ª   +---ExportImport
+ª   ª   ª       ª   +---48.9SubModules
+ª   ª   ª       ª       +---Submodules
+ª   ª   ª       +---5.OperationsOnData
+ª   ª   ª       ª   +---5.10.MathFunctions
+ª   ª   ª       ª   +---5.11.WeirdIntegralTypes
+ª   ª   ª       ª   +---5.2.BasicOperations
+ª   ª   ª       ª   +---5.3.PrecedenceAndAssociativity
+ª   ª   ª       ª   +---5.4.PrefixPostfixIncrementDecrement
+ª   ª   ª       ª   +---5.5.CompoundAssignmentOperators
+ª   ª   ª       ª   +---5.6.RelationalOperators
+ª   ª   ª       ª   +---5.7.LogicalOperators
+ª   ª   ª       ª   +---5.8.OutputFormatting
+ª   ª   ª       ª   +---5.9.NumericLimits
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---6.LiteralsAndConstants
+ª   ª   ª       ª   +---6.2Literals
+ª   ª   ª       ª   +---6.3Constants
+ª   ª   ª       ª   +---6.4ConstantExpressions
+ª   ª   ª       ª   +---6.5constinit
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---7.ConversionsOverflowAndUnderflow
+ª   ª   ª       ª   +---7.2ImplicitDataConversions
+ª   ª   ª       ª   +---7.3ExplicitDataConversions
+ª   ª   ª       ª   +---7.4OverflowAndUnderflow
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---8.BitwiseOperators
+ª   ª   ª       ª   +---8.2PrintingIntegersInBinary
+ª   ª   ª       ª   +---8.3ShiftOperators
+ª   ª   ª       ª   +---8.4LogicalBitwiseOperators
+ª   ª   ª       ª   +---8.5CompoundBitwiseOperators
+ª   ª   ª       ª   +---8.6Masks
+ª   ª   ª       ª   +---8.7MasksExample
+ª   ª   ª       ª   +---8.8PackingColorInformation
+ª   ª   ª       ª   +---C++ 20 Template Project
+ª   ª   ª       +---9.VariableLifetimeAndScope
+ª   ª   ª           +---9.2VariableScope
+ª   ª   ª           +---C++ 20 Template Project
+ª   ª   +---OLD
+ª   ª   ª   +---.vscode
+ª   ª   ª   +---check
+ª   ª   ª   +---counter
+ª   ª   ª   ª   +---.vs
+ª   ª   ª   ª       +---counter
+ª   ª   ª   ª           +---v16
+ª   ª   ª   ª               +---ipch
+ª   ª   ª   ª                   +---AutoPCH
+ª   ª   ª   ª                       +---695c6221cf1d1eac
+ª   ª   ª   ª                       +---de15cd4e7a31683a
+ª   ª   ª   +---ECHLON MATRIX
+ª   ª   ª   ª   +---.vscode
+ª   ª   ª   +---encrytion project - old
+ª   ª   ª   ª   +---.vscode
+ª   ª   ª   ª   +---garbage
+ª   ª   ª   +---factors
+ª   ª   ª   ª   +---.vscode
+ª   ª   ª   +---practice cpp files
+ª   ª   ª   +---prime test
+ª   ª   ª   +---usefulCPP
+ª   ª   +---pointers
+ª   ª   +---Preprocessor
+ª   ª   ª   +---.vscode
+ª   ª   +---STL
+ª   ª   ª   +---.vscode
+ª   ª   ª   +---List
+ª   ª   ª   +---PAIRS
+ª   ª   +---stringsChar
+ª   ª       +---.vscode
+ª   +---CODATHON
+ª   ª   +---.vscode
+ª   +---Competeive
+ª   +---JAVA_AND_ANDROID
+ª   ª   +---ANDROID
+ª   ª   ª   +---.gradle
+ª   ª   ª   ª   +---7.0.2
+ª   ª   ª   ª   ª   +---dependencies-accessors
+ª   ª   ª   ª   ª   +---fileChanges
+ª   ª   ª   ª   ª   +---fileHashes
+ª   ª   ª   ª   ª   +---vcsMetadata-1
+ª   ª   ª   ª   +---buildOutputCleanup
+ª   ª   ª   ª   +---checksums
+ª   ª   ª   ª   +---vcs-1
+ª   ª   ª   +---.idea
+ª   ª   ª   ª   +---libraries
+ª   ª   ª   ª   +---modules
+ª   ª   ª   ª       +---app
+ª   ª   ª   +---app
+ª   ª   ª   ª   +---libs
+ª   ª   ª   ª   +---src
+ª   ª   ª   ª       +---androidTest
+ª   ª   ª   ª       ª   +---java
+ª   ª   ª   ª       ª       +---com
+ª   ª   ª   ª       ª           +---example
+ª   ª   ª   ª       ª               +---android
+ª   ª   ª   ª       ª                   +---myapplication
+ª   ª   ª   ª       +---main
+ª   ª   ª   ª       ª   +---java
+ª   ª   ª   ª       ª   ª   +---com
+ª   ª   ª   ª       ª   ª       +---example
+ª   ª   ª   ª       ª   ª           +---android
+ª   ª   ª   ª       ª   ª               +---myapplication
+ª   ª   ª   ª       ª   +---res
+ª   ª   ª   ª       ª       +---drawable
+ª   ª   ª   ª       ª       +---drawable-v24
+ª   ª   ª   ª       ª       +---layout
+ª   ª   ª   ª       ª       +---mipmap-anydpi-v26
+ª   ª   ª   ª       ª       +---mipmap-hdpi
+ª   ª   ª   ª       ª       +---mipmap-mdpi
+ª   ª   ª   ª       ª       +---mipmap-xhdpi
+ª   ª   ª   ª       ª       +---mipmap-xxhdpi
+ª   ª   ª   ª       ª       +---mipmap-xxxhdpi
+ª   ª   ª   ª       ª       +---values
+ª   ª   ª   ª       ª       +---values-night
+ª   ª   ª   ª       +---test
+ª   ª   ª   ª           +---java
+ª   ª   ª   ª               +---com
+ª   ª   ª   ª                   +---example
+ª   ª   ª   ª                       +---android
+ª   ª   ª   ª                           +---myapplication
+ª   ª   ª   +---gradle
+ª   ª   ª       +---wrapper
+ª   ª   +---SPECIFIC_JAVA_LEARNING
+ª   +---PYTHON
+ª   ª   +---AutomateTheBoringStuf
+ª   ª   ª   +---RES
+ª   ª   ª   +---__pycache__
+ª   ª   +---GUI
+ª   ª   +---images
+ª   ª   ª   +---__pycache__
+ª   ª   +---newProject
+ª   ª   ª   +---d
+ª   ª   ª   +---Gui
+ª   ª   ª   +---logic
+ª   ª   +---NOTEBOOKS
+ª   ª   ª   +---.ipynb_checkpoints
+ª   ª   +---Numpy
+ª   ª   ª   +---.ipynb_checkpoints
+ª   ª   +---old
+ª   ª   +---pandas
+ª   ª   ª   +---.ipynb_checkpoints
+ª   ª   +---primeFactor
+ª   ª   +---PYTHON_CRASH_COURSE
+ª   ª   ª   +---python resources
+ª   ª   ª   ª   +---beyond_pcc
+ª   ª   ª   ª   ª   +---ai_player
+ª   ª   ª   ª   ª   ª   +---alien_invasion_changing_strategies
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_firing_automatically
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_modifies_speed
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_original
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   +---alien_invasion_randomized_firing
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_sweeps_right_left
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_sweeps_rl_refactored
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_targets_alien
+ª   ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   ª   +---sounds
+ª   ª   ª   ª   ª   ª   +---alien_invasion_with_sounds
+ª   ª   ª   ª   ª   ª       +---images
+ª   ª   ª   ª   ª   ª       +---sounds
+ª   ª   ª   ª   ª   +---chess_game
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   ª   +---utils
+ª   ª   ª   ª   ª   +---social_justice_datasets
+ª   ª   ª   ª   +---chapter_01
+ª   ª   ª   ª   +---chapter_02
+ª   ª   ª   ª   +---chapter_03
+ª   ª   ª   ª   +---chapter_04
+ª   ª   ª   ª   +---chapter_05
+ª   ª   ª   ª   +---chapter_06
+ª   ª   ª   ª   +---chapter_07
+ª   ª   ª   ª   +---chapter_08
+ª   ª   ª   ª   +---chapter_09
+ª   ª   ª   ª   ª   +---importing_classes
+ª   ª   ª   ª   +---chapter_10
+ª   ª   ª   ª   +---chapter_11
+ª   ª   ª   ª   +---chapter_12
+ª   ª   ª   ª   ª   +---adding_ship_image
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---piloting_the_ship
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---refactoring
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---shooting_bullets
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---starting_the_game_project
+ª   ª   ª   ª   +---chapter_13
+ª   ª   ª   ª   ª   +---building_alien_fleet
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---creating_first_alien
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---ending_the_game
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---making_fleet_move
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---shooting_aliens
+ª   ª   ª   ª   ª       +---images
+ª   ª   ª   ª   +---chapter_14
+ª   ª   ª   ª   ª   +---adding_play_button
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---leveling_up
+ª   ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   ª   +---scoring
+ª   ª   ª   ª   ª       +---images
+ª   ª   ª   ª   +---chapter_15
+ª   ª   ª   ª   ª   +---plotting_simple_line_graph
+ª   ª   ª   ª   ª   +---random_walks
+ª   ª   ª   ª   ª   +---rolling_dice
+ª   ª   ª   ª   +---chapter_16
+ª   ª   ª   ª   ª   +---mapping_global_data_sets
+ª   ª   ª   ª   ª   ª   +---data
+ª   ª   ª   ª   ª   +---the_csv_file_format
+ª   ª   ª   ª   ª       +---data
+ª   ª   ª   ª   ª       +---revisions_printing_4
+ª   ª   ª   ª   ª           +---data
+ª   ª   ª   ª   +---chapter_17
+ª   ª   ª   ª   ª   +---data
+ª   ª   ª   ª   +---chapter_18
+ª   ª   ª   ª   ª   +---building_additional_pages
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   ª   +---learning_logs
+ª   ª   ª   ª   ª   ª       +---migrations
+ª   ª   ª   ª   ª   ª       +---templates
+ª   ª   ª   ª   ª   ª           +---learning_logs
+ª   ª   ª   ª   ª   +---making_pages
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   ª   +---learning_logs
+ª   ª   ª   ª   ª   ª       +---migrations
+ª   ª   ª   ª   ª   ª       +---templates
+ª   ª   ª   ª   ª   ª           +---learning_logs
+ª   ª   ª   ª   ª   +---setting_up_project
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   +---starting_an_app
+ª   ª   ª   ª   ª       +---learning_log
+ª   ª   ª   ª   ª       +---learning_logs
+ª   ª   ª   ª   ª           +---migrations
+ª   ª   ª   ª   +---chapter_19
+ª   ª   ª   ª   ª   +---allowing_users_to_enter_data
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   ª   +---learning_logs
+ª   ª   ª   ª   ª   ª       +---migrations
+ª   ª   ª   ª   ª   ª       +---templates
+ª   ª   ª   ª   ª   ª           +---learning_logs
+ª   ª   ª   ª   ª   +---allowing_users_to_own_their_data
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   ª   +---learning_logs
+ª   ª   ª   ª   ª   ª   ª   +---migrations
+ª   ª   ª   ª   ª   ª   ª   +---templates
+ª   ª   ª   ª   ª   ª   ª       +---learning_logs
+ª   ª   ª   ª   ª   ª   +---users
+ª   ª   ª   ª   ª   ª       +---migrations
+ª   ª   ª   ª   ª   ª       +---templates
+ª   ª   ª   ª   ª   ª           +---registration
+ª   ª   ª   ª   ª   +---setting_up_user_accounts
+ª   ª   ª   ª   ª       +---learning_log
+ª   ª   ª   ª   ª       +---learning_logs
+ª   ª   ª   ª   ª       ª   +---migrations
+ª   ª   ª   ª   ª       ª   +---templates
+ª   ª   ª   ª   ª       ª       +---learning_logs
+ª   ª   ª   ª   ª       +---users
+ª   ª   ª   ª   ª           +---migrations
+ª   ª   ª   ª   ª           +---templates
+ª   ª   ª   ª   ª               +---registration
+ª   ª   ª   ª   +---chapter_20
+ª   ª   ª   ª   ª   +---deploying_learning_log
+ª   ª   ª   ª   ª   ª   +---learning_log
+ª   ª   ª   ª   ª   ª   +---learning_logs
+ª   ª   ª   ª   ª   ª   ª   +---migrations
+ª   ª   ª   ª   ª   ª   ª   +---templates
+ª   ª   ª   ª   ª   ª   ª       +---learning_logs
+ª   ª   ª   ª   ª   ª   +---templates
+ª   ª   ª   ª   ª   ª   +---users
+ª   ª   ª   ª   ª   ª       +---migrations
+ª   ª   ª   ª   ª   ª       +---templates
+ª   ª   ª   ª   ª   ª           +---registration
+ª   ª   ª   ª   ª   +---styling_learning_log
+ª   ª   ª   ª   ª       +---learning_log
+ª   ª   ª   ª   ª       +---learning_logs
+ª   ª   ª   ª   ª       ª   +---migrations
+ª   ª   ª   ª   ª       ª   +---templates
+ª   ª   ª   ª   ª       ª       +---learning_logs
+ª   ª   ª   ª   ª       +---users
+ª   ª   ª   ª   ª           +---migrations
+ª   ª   ª   ª   ª           +---templates
+ª   ª   ª   ª   ª               +---registration
+ª   ª   ª   ª   +---cheat_sheets
+ª   ª   ª   +---__pycache__
+ª   ª   +---Stats
+ª   ª   ª   +---__pycache__
+ª   ª   +---Stocks
+ª   +---stats
+ª   +---WEB DEVELOPMENT
+ª       +---.vscode
+ª       +---FILES SHARED
+ª       ª   +---UPLOADS
+ª       +---HtmlsOLd
+ª       +---music
+ª       +---pdf
+ª       +---picture
+ª       +---Practics
+ª       +---project
+ª       ª   +---fbclone
+ª       ª   +---sceap
+ª       ª   +---website
+ª       ª       +---compiler
+ª       ª       ª   +---online-ide
+ª       ª       ª       +---app
+ª       ª       ª       ª   +---temp
+ª       ª       ª       +---ui
+ª       ª       ª           +---css
+ª       ª       ª           +---js
+ª       ª       ª               +---lib
+ª       ª       +---Live
+ª       ª       +---res
+ª       +---svg
++---new
++---PROJECTS
+ª   +---AlphaAlpha
+ª   ª   +---ANDROID
+ª   ª   +---WEB
+ª   +---CPP_ENCRYPTION_PROJECT
+ª   ª   +---ENCRYPTED
+ª   +---InfoManager
+ª   +---piano
+ª   ª   +---.vs
+ª   ª   ª   +---piano
+ª   ª   ª       +---v16
+ª   ª   +---Piano
+ª   ª       +---.vscode
+ª   ª       +---piano-mp3
+ª   +---PythonPassManager
+ª   +---PYTHON_ALIEN_GAME
+ª   ª   +---.vscode
+ª   ª   +---Resources
+ª   ª   ª   +---chapter_13
+ª   ª   ª   ª   +---building_alien_fleet
+ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   +---creating_first_alien
+ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   +---ending_the_game
+ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   +---making_fleet_move
+ª   ª   ª   ª   ª   +---images
+ª   ª   ª   ª   +---shooting_aliens
+ª   ª   ª   ª       +---images
+ª   ª   ª   +---chapter_14
+ª   ª   ª       +---adding_play_button
+ª   ª   ª       ª   +---images
+ª   ª   ª       +---leveling_up
+ª   ª   ª       ª   +---images
+ª   ª   ª       +---scoring
+ª   ª   ª           +---images
+ª   ª   +---__pycache__
+ª   +---RPS
+ª   +---seven segment
+ª   +---StockMarket
+ª       +---Matplotlib
++---Scripting
